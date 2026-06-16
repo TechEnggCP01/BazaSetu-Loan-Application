@@ -1,4 +1,4 @@
-# 🚀 LendSwift - Multi-Step Loan Application System
+# 🚀 BazarSetu- Multi-Step Loan Application System
 
 A production-grade multi-step loan application platform built using React, TypeScript, React Hook Form, Zod, Zustand, and Tailwind CSS.
 
