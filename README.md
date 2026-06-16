@@ -3,8 +3,25 @@
 A production-grade multi-step loan application platform built using React, TypeScript, React Hook Form, Zod, Zustand, and Tailwind CSS.
 
 ## 📌 Project Overview
+# 🔗 Live Demo
 
-LendSwift is a digital lending platform that allows users to apply for:
+**Frontend Application:**
+https://baza-setu-loan-application.vercel.app/
+
+# 📂 GitHub Repository
+
+**Repository Link:**
+https://github.com/TechEnggCP01/BazaSetu-Loan-Application/tree/main
+# 🌐 Deployment
+
+This project is deployed using **Vercel**.
+
+Production URL:
+https://baza-setu-loan-application.vercel.app/
+
+
+BzaeSetu<img width="1920" height="1080" alt="Screenshot 2026-06-16 112432" src="https://github.com/user-attachments/assets/d4d632d0-4dc1-4dc8-a5cc-ab7e6c254919" />
+ is a digital lending platform that allows users to apply for:
 
 * Personal Loans
 * Home Loans
